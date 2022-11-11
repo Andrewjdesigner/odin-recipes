@@ -13,10 +13,17 @@ p {
 
 a {
     color: rgb(47, 107, 6);
+    transition: .5s ease;
+    text-decoration: none;
 }
 
 a:hover, a:focus {
-    color:rgb(28, 61, 6)
+    color:rgb(28, 61, 6);
+    text-decoration: underline;
+}
+
+ul li::marker, ol li::marker {
+    color: rgb(113, 161, 109);
 }
 
 main {
