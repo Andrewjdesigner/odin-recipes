@@ -30,6 +30,10 @@ main {
     padding: 0 200px;
 }
 
-.food-image {
+.food-image img {
     max-width: 450px;
+}
+
+.food-image figcaption {
+    font-style: italic;
 }
