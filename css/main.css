@@ -30,6 +30,7 @@ main {
     margin: 0 200px;
     padding: 50px;
     background-color: rgb(247, 235, 230);
+    box-shadow: 0 0 7px 0px rgb(52 12 11 / 10%);
 }
 
 .food-image img {
