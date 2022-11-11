@@ -29,3 +29,7 @@ ul li::marker, ol li::marker {
 main {
     padding: 0 200px;
 }
+
+.food-image {
+    max-width: 450px;
+}
