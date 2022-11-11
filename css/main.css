@@ -38,6 +38,14 @@ main {
     border-radius: 5px;
 }
 
+figure {
+    margin: 20px 0;
+}
+
+figcaption {
+    margin: 10px 0 0;
+}
+
 .food-image figcaption {
     font-style: italic;
 }
