@@ -27,7 +27,8 @@ ul li::marker, ol li::marker {
 }
 
 main {
-    padding: 0 200px;
+    margin: 0 200px;
+    background-color: #FFF;
 }
 
 .food-image img {
