@@ -1,5 +1,5 @@
 body {
-    background-color: #f5ebe0;
+    background-color: #e4d1bd;
     font-family: 'Franklin Gothic Medium', Helvetica, sans-serif;
 }
 
@@ -28,7 +28,8 @@ ul li::marker, ol li::marker {
 
 main {
     margin: 0 200px;
-    background-color: #FFF;
+    padding: 50px;
+    background-color: rgb(247, 235, 230);
 }
 
 .food-image img {
